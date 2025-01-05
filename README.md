@@ -53,7 +53,7 @@ blocker-extension/
    - The content script dynamically scans Instagram pages for keywords indicating explicit content.
    - Matches are hidden from view to protect users from exposure.
 
-3. **Chrome Storage API**
+3. **Chrome Storage API (required)**
    - The extension uses the Chrome Storage API to save the state of the blocker (enabled/disabled).
 
 ---
